@@ -1,0 +1,22 @@
+
+h1 {
+    text-align:center;
+    padding: 30px;
+}
+
+div img {
+    width: 350px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.main-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    
+}
+
+p {
+    text-align: center;
+}
